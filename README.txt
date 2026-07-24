@@ -11,3 +11,6 @@ TO UPDATE YOUR LIVE GITHUB PAGES SITE:
 6. Wait 1–3 minutes, then refresh your live site.
 
 You may upload README.txt too, but it is optional.
+
+
+UPDATED: The old hand-held banana pudding photo was removed. Banana Pudding and Strawberry Shortcake labeled mini-cake photos are now built into index.html.
