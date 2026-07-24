@@ -1,6 +1,13 @@
-BEAR'S SWEET SPOT BAKERY WEBSITE
+BEAR'S SWEET SPOT BAKERY — GITHUB READY
 
-1. Open index.html to preview the site.
-2. Replace every instance of yourbakeryemail@example.com with your real bakery email.
-3. To make the site public, upload this folder to a website host such as Netlify, Wix, Squarespace, or your own hosting account.
-4. The included bakery menu artwork is stored in assets/bakery-menu.png.
+This version uses one self-contained index.html file. The cookie labels and mini-cake photo are embedded inside the page, so no assets folder is required.
+
+TO UPDATE YOUR LIVE GITHUB PAGES SITE:
+1. Open your bears-sweet-spot-bakery repository.
+2. Open index.html and choose Delete file, then commit the deletion.
+3. Return to the repository and choose Add file > Upload files.
+4. Upload the new index.html from this folder.
+5. Commit changes.
+6. Wait 1–3 minutes, then refresh your live site.
+
+You may upload README.txt too, but it is optional.
